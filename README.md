@@ -8,6 +8,8 @@ Mac is tight on security and will not allow you to just open the application. Yo
 
 There is a dialogue cutscene initially which can be entirely skipped by pressing s.
 
+wasd to move in game, mouse click to shoot.
+
 Besides that, there are quit buttons on the menu and game over screen, but no way to quit mid game. 
 
 I would recommend pressing Cmd+Q to quit or to die, then press the quit button. 
